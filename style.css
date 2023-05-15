@@ -298,10 +298,4 @@ section{
             font-size: 8px;
         }
     }
-    
-    @media (max-width:320){
-        .main span{
-            font-size: 8px;
-        }
-    }
 }
